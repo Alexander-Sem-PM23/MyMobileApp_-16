@@ -1,1 +1,3 @@
-# MyMobileApp_-16
+# MyMobileApp_Student16
+Опис проекту:
+Цей проєкт створений для демонстрації навичок роботи з Git та GitHub.
