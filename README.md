@@ -1,2 +1,3 @@
-# My Mobile App
-Let's make that noise!
+# MyMobileApp_Student16
+Опис проекту:
+Цей проєкт створений для демонстрації навичок роботи з Git та GitHub.
